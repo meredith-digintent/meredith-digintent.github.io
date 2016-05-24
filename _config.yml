@@ -1,5 +1,8 @@
 name: Meredith Overmyer
+title: "Meredith Overmyer Portfolio"
+keywords: "Meredith Overmyer"
+favicon: "img/favicon.ico"
 markdown: kramdown
-permalink: /blog/:title
+permalink: /:title
 gems:
   - jekyll-sitemap
