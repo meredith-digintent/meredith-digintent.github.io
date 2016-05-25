@@ -1,6 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
+    background-color: #E9D0B9;
 }
 nav ul, footer ul {
     font-family:'Futura', 'Futura', 'Sans-Serif';
@@ -14,7 +15,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: #243677;
 }
 a:hover {
     text-decoration: underline;
@@ -22,12 +23,13 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:'Futura', 'Futura', 'Sans-Serif';
+    color: #243677;
 }
 p {
     font-size: 1.5em;
     font-family:'PT Serif', 'PT Serif', 'Serif';
     line-height: 1.4em;
-    color: #333;
+    color: #243677;
 }
 footer {
     border-top: 1px solid #d5d5d5;
