@@ -18,7 +18,7 @@ a {
     color: #243677;
 }
 a:hover {
-    text-decoration: underline;
+    background-color: #fff;
 }
 h1 {
     font-size: 3em;
@@ -39,6 +39,7 @@ footer {
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
+    font-family: 'PT Serif', 'PT Serif', 'Serif';
 }
 
 ul.posts li {
