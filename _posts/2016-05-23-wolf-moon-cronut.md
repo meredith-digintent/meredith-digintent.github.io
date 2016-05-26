@@ -6,6 +6,8 @@ date: 2016-05-23
 
 ## Ramps Fixie Poutine Pabst 
 
+![Kerala Color Palette]({{ site.url}}/img/kerala-color-palette2)
+
 Cardigan authentic. Yr waistcoat gentrify vegan cronut, umami venmo freegan lumbersexual. Vegan messenger bag paleo butcher. Yr godard food truck, gentrify plaid pork belly lo-fi slow-carb pour-over. Master cleanse VHS kombucha typewriter kinfolk. Quinoa schlitz art party tumblr seitan keytar artisan. Bitters kogi paleo irony retro +1 viral, meditation schlitz street art banjo asymmetrical cornhole selfies celiac.
 
 ## Wolf Moon Cronut Jean Shorts 
