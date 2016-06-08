@@ -1,7 +1,7 @@
 ---
+title: Wolf Moon Cronut Jean Shorts
+date: 2016-05-23 00:00:00 Z
 layout: post
-title: "Wolf Moon Cronut Jean Shorts"
-date: 2016-05-23
 ---
 
 ## Ramps Fixie Poutine Pabst 
