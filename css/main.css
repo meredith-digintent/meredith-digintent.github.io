@@ -4,7 +4,7 @@ body {
     background-color: #E9D0B9;
 }
 nav ul, footer ul {
-    font-family:'Futura', 'Futura', 'Sans-Serif';
+    font-family:'Apercu', 'Apercu', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -22,7 +22,7 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:'Futura', 'Futura', 'Sans-Serif';
+    font-family:'Apercu', 'Apercu', 'Sans-Serif';
     color: #243677;
 }
 p {
